@@ -1,0 +1,8 @@
+# Folder with datasets
+data/
+
+# Folder with environment
+venv/
+
+# Книга, но издание где нет Python, только R
+Bruce_Bruce_2018_Practical Statistics for Data Scientists.pdf
